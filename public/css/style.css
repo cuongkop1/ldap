@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background: #1ABC9C !important;
+    border: none !important;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+a{
+    color: #424949 !important;
+}
+.li-page:hover {
+    background-color: #0A9A7D;
+}
+.li-page a:hover{
+    color: white !important;
+}
+#logo{
+    width: 100px;
+}
+.navbar-brand{
+    padding: 7px 15px !important;
+}
+#button-camon{
+    margin-bottom: 50px;
+}
+.btn-primary{
+    color: white !important
+}
